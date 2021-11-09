@@ -1,0 +1,198 @@
+[05-Mar-2021 09:50:57 UTC] PHP Fatal error:  Uncaught ErrorException: include(/home2/khatishodai/api.khatishodai.com/vendor/composer/../../app/Exceptions/Handler.php): failed to open stream: No such file or directory in /home2/khatishodai/api.khatishodai.com/vendor/composer/ClassLoader.php:444
+Stack trace:
+#0 /home2/khatishodai/api.khatishodai.com/vendor/composer/ClassLoader.php(444): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'include(/home2/...', '/home2/khatisho...', 444, Array)
+#1 /home2/khatishodai/api.khatishodai.com/vendor/composer/ClassLoader.php(444): include()
+#2 /home2/khatishodai/api.khatishodai.com/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home2/khatisho...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Exceptions\\...')
+#4 [internal function]: spl_autoload_call('App\\Exceptions\\...')
+#5 /home2/khatishodai/api.khatishodai.com/vendor/illuminate/container/Container.php(809): ReflectionClass->__construct('App\\Exceptions\\...')
+#6 /home2/khatishodai/api.khatishodai.com/ in /home2/khatishodai/api.khatishodai.com/vendor/composer/ClassLoader.php on line 444
+[05-Mar-2021 09:50:57 UTC] PHP Fatal error:  Uncaught ErrorException: include(/home2/khatishodai/api.khatishodai.com/vendor/composer/../../app/Exceptions/Handler.php): failed to open stream: No such file or directory in /home2/khatishodai/api.khatishodai.com/vendor/composer/ClassLoader.php:444
+Stack trace:
+#0 /home2/khatishodai/api.khatishodai.com/vendor/composer/ClassLoader.php(444): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'include(/home2/...', '/home2/khatisho...', 444, Array)
+#1 /home2/khatishodai/api.khatishodai.com/vendor/composer/ClassLoader.php(444): include()
+#2 /home2/khatishodai/api.khatishodai.com/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home2/khatisho...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Exceptions\\...')
+#4 [internal function]: spl_autoload_call('App\\Exceptions\\...')
+#5 /home2/khatishodai/api.khatishodai.com/vendor/illuminate/container/Container.php(809): ReflectionClass->__construct('App\\Exceptions\\...')
+#6 /home2/khatishodai/api.khatishodai.com/ in /home2/khatishodai/api.khatishodai.com/vendor/composer/ClassLoader.php on line 444
+[05-Mar-2021 09:50:57 UTC] PHP Fatal error:  Uncaught ErrorException: include(/home2/khatishodai/api.khatishodai.com/vendor/composer/../../app/Exceptions/Handler.php): failed to open stream: No such file or directory in /home2/khatishodai/api.khatishodai.com/vendor/composer/ClassLoader.php:444
+Stack trace:
+#0 /home2/khatishodai/api.khatishodai.com/vendor/composer/ClassLoader.php(444): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'include(/home2/...', '/home2/khatisho...', 444, Array)
+#1 /home2/khatishodai/api.khatishodai.com/vendor/composer/ClassLoader.php(444): include()
+#2 /home2/khatishodai/api.khatishodai.com/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home2/khatisho...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Exceptions\\...')
+#4 [internal function]: spl_autoload_call('App\\Exceptions\\...')
+#5 /home2/khatishodai/api.khatishodai.com/vendor/illuminate/container/Container.php(809): ReflectionClass->__construct('App\\Exceptions\\...')
+#6 /home2/khatishodai/api.khatishodai.com/ in /home2/khatishodai/api.khatishodai.com/vendor/composer/ClassLoader.php on line 444
+[05-Mar-2021 09:50:57 UTC] PHP Fatal error:  Uncaught ErrorException: include(/home2/khatishodai/api.khatishodai.com/vendor/composer/../../app/Exceptions/Handler.php): failed to open stream: No such file or directory in /home2/khatishodai/api.khatishodai.com/vendor/composer/ClassLoader.php:444
+Stack trace:
+#0 /home2/khatishodai/api.khatishodai.com/vendor/composer/ClassLoader.php(444): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'include(/home2/...', '/home2/khatisho...', 444, Array)
+#1 /home2/khatishodai/api.khatishodai.com/vendor/composer/ClassLoader.php(444): include()
+#2 /home2/khatishodai/api.khatishodai.com/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home2/khatisho...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Exceptions\\...')
+#4 [internal function]: spl_autoload_call('App\\Exceptions\\...')
+#5 /home2/khatishodai/api.khatishodai.com/vendor/illuminate/container/Container.php(809): ReflectionClass->__construct('App\\Exceptions\\...')
+#6 /home2/khatishodai/api.khatishodai.com/ in /home2/khatishodai/api.khatishodai.com/vendor/composer/ClassLoader.php on line 444
+[05-Mar-2021 10:03:11 UTC] PHP Fatal error:  Uncaught ErrorException: include(/home2/khatishodai/api.khatishodai.com/vendor/composer/../../app/Exceptions/Handler.php): failed to open stream: No such file or directory in /home2/khatishodai/api.khatishodai.com/vendor/composer/ClassLoader.php:444
+Stack trace:
+#0 /home2/khatishodai/api.khatishodai.com/vendor/composer/ClassLoader.php(444): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'include(/home2/...', '/home2/khatisho...', 444, Array)
+#1 /home2/khatishodai/api.khatishodai.com/vendor/composer/ClassLoader.php(444): include()
+#2 /home2/khatishodai/api.khatishodai.com/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home2/khatisho...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Exceptions\\...')
+#4 [internal function]: spl_autoload_call('App\\Exceptions\\...')
+#5 /home2/khatishodai/api.khatishodai.com/vendor/illuminate/container/Container.php(809): ReflectionClass->__construct('App\\Exceptions\\...')
+#6 /home2/khatishodai/api.khatishodai.com/ in /home2/khatishodai/api.khatishodai.com/vendor/composer/ClassLoader.php on line 444
+[05-Mar-2021 10:03:11 UTC] PHP Fatal error:  Uncaught ErrorException: include(/home2/khatishodai/api.khatishodai.com/vendor/composer/../../app/Exceptions/Handler.php): failed to open stream: No such file or directory in /home2/khatishodai/api.khatishodai.com/vendor/composer/ClassLoader.php:444
+Stack trace:
+#0 /home2/khatishodai/api.khatishodai.com/vendor/composer/ClassLoader.php(444): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'include(/home2/...', '/home2/khatisho...', 444, Array)
+#1 /home2/khatishodai/api.khatishodai.com/vendor/composer/ClassLoader.php(444): include()
+#2 /home2/khatishodai/api.khatishodai.com/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home2/khatisho...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Exceptions\\...')
+#4 [internal function]: spl_autoload_call('App\\Exceptions\\...')
+#5 /home2/khatishodai/api.khatishodai.com/vendor/illuminate/container/Container.php(809): ReflectionClass->__construct('App\\Exceptions\\...')
+#6 /home2/khatishodai/api.khatishodai.com/ in /home2/khatishodai/api.khatishodai.com/vendor/composer/ClassLoader.php on line 444
+[05-Mar-2021 10:03:11 UTC] PHP Fatal error:  Uncaught ErrorException: include(/home2/khatishodai/api.khatishodai.com/vendor/composer/../../app/Exceptions/Handler.php): failed to open stream: No such file or directory in /home2/khatishodai/api.khatishodai.com/vendor/composer/ClassLoader.php:444
+Stack trace:
+#0 /home2/khatishodai/api.khatishodai.com/vendor/composer/ClassLoader.php(444): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'include(/home2/...', '/home2/khatisho...', 444, Array)
+#1 /home2/khatishodai/api.khatishodai.com/vendor/composer/ClassLoader.php(444): include()
+#2 /home2/khatishodai/api.khatishodai.com/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home2/khatisho...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Exceptions\\...')
+#4 [internal function]: spl_autoload_call('App\\Exceptions\\...')
+#5 /home2/khatishodai/api.khatishodai.com/vendor/illuminate/container/Container.php(809): ReflectionClass->__construct('App\\Exceptions\\...')
+#6 /home2/khatishodai/api.khatishodai.com/ in /home2/khatishodai/api.khatishodai.com/vendor/composer/ClassLoader.php on line 444
+[05-Mar-2021 10:03:11 UTC] PHP Fatal error:  Uncaught ErrorException: include(/home2/khatishodai/api.khatishodai.com/vendor/composer/../../app/Exceptions/Handler.php): failed to open stream: No such file or directory in /home2/khatishodai/api.khatishodai.com/vendor/composer/ClassLoader.php:444
+Stack trace:
+#0 /home2/khatishodai/api.khatishodai.com/vendor/composer/ClassLoader.php(444): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'include(/home2/...', '/home2/khatisho...', 444, Array)
+#1 /home2/khatishodai/api.khatishodai.com/vendor/composer/ClassLoader.php(444): include()
+#2 /home2/khatishodai/api.khatishodai.com/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home2/khatisho...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Exceptions\\...')
+#4 [internal function]: spl_autoload_call('App\\Exceptions\\...')
+#5 /home2/khatishodai/api.khatishodai.com/vendor/illuminate/container/Container.php(809): ReflectionClass->__construct('App\\Exceptions\\...')
+#6 /home2/khatishodai/api.khatishodai.com/ in /home2/khatishodai/api.khatishodai.com/vendor/composer/ClassLoader.php on line 444
+[05-Mar-2021 10:03:13 UTC] PHP Fatal error:  Uncaught ErrorException: include(/home2/khatishodai/api.khatishodai.com/vendor/composer/../../app/Exceptions/Handler.php): failed to open stream: No such file or directory in /home2/khatishodai/api.khatishodai.com/vendor/composer/ClassLoader.php:444
+Stack trace:
+#0 /home2/khatishodai/api.khatishodai.com/vendor/composer/ClassLoader.php(444): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'include(/home2/...', '/home2/khatisho...', 444, Array)
+#1 /home2/khatishodai/api.khatishodai.com/vendor/composer/ClassLoader.php(444): include()
+#2 /home2/khatishodai/api.khatishodai.com/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home2/khatisho...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Exceptions\\...')
+#4 [internal function]: spl_autoload_call('App\\Exceptions\\...')
+#5 /home2/khatishodai/api.khatishodai.com/vendor/illuminate/container/Container.php(809): ReflectionClass->__construct('App\\Exceptions\\...')
+#6 /home2/khatishodai/api.khatishodai.com/ in /home2/khatishodai/api.khatishodai.com/vendor/composer/ClassLoader.php on line 444
+[05-Mar-2021 10:03:13 UTC] PHP Fatal error:  Uncaught ErrorException: include(/home2/khatishodai/api.khatishodai.com/vendor/composer/../../app/Exceptions/Handler.php): failed to open stream: No such file or directory in /home2/khatishodai/api.khatishodai.com/vendor/composer/ClassLoader.php:444
+Stack trace:
+#0 /home2/khatishodai/api.khatishodai.com/vendor/composer/ClassLoader.php(444): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'include(/home2/...', '/home2/khatisho...', 444, Array)
+#1 /home2/khatishodai/api.khatishodai.com/vendor/composer/ClassLoader.php(444): include()
+#2 /home2/khatishodai/api.khatishodai.com/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home2/khatisho...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Exceptions\\...')
+#4 [internal function]: spl_autoload_call('App\\Exceptions\\...')
+#5 /home2/khatishodai/api.khatishodai.com/vendor/illuminate/container/Container.php(809): ReflectionClass->__construct('App\\Exceptions\\...')
+#6 /home2/khatishodai/api.khatishodai.com/ in /home2/khatishodai/api.khatishodai.com/vendor/composer/ClassLoader.php on line 444
+[05-Mar-2021 10:08:00 UTC] PHP Fatal error:  Uncaught ErrorException: include(/home2/khatishodai/api.khatishodai.com/vendor/composer/../../app/Exceptions/Handler.php): failed to open stream: No such file or directory in /home2/khatishodai/api.khatishodai.com/vendor/composer/ClassLoader.php:444
+Stack trace:
+#0 /home2/khatishodai/api.khatishodai.com/vendor/composer/ClassLoader.php(444): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'include(/home2/...', '/home2/khatisho...', 444, Array)
+#1 /home2/khatishodai/api.khatishodai.com/vendor/composer/ClassLoader.php(444): include()
+#2 /home2/khatishodai/api.khatishodai.com/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home2/khatisho...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Exceptions\\...')
+#4 [internal function]: spl_autoload_call('App\\Exceptions\\...')
+#5 /home2/khatishodai/api.khatishodai.com/vendor/illuminate/container/Container.php(809): ReflectionClass->__construct('App\\Exceptions\\...')
+#6 /home2/khatishodai/api.khatishodai.com/ in /home2/khatishodai/api.khatishodai.com/vendor/composer/ClassLoader.php on line 444
+[05-Mar-2021 10:08:00 UTC] PHP Fatal error:  Uncaught ErrorException: include(/home2/khatishodai/api.khatishodai.com/vendor/composer/../../app/Exceptions/Handler.php): failed to open stream: No such file or directory in /home2/khatishodai/api.khatishodai.com/vendor/composer/ClassLoader.php:444
+Stack trace:
+#0 /home2/khatishodai/api.khatishodai.com/vendor/composer/ClassLoader.php(444): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'include(/home2/...', '/home2/khatisho...', 444, Array)
+#1 /home2/khatishodai/api.khatishodai.com/vendor/composer/ClassLoader.php(444): include()
+#2 /home2/khatishodai/api.khatishodai.com/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home2/khatisho...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Exceptions\\...')
+#4 [internal function]: spl_autoload_call('App\\Exceptions\\...')
+#5 /home2/khatishodai/api.khatishodai.com/vendor/illuminate/container/Container.php(809): ReflectionClass->__construct('App\\Exceptions\\...')
+#6 /home2/khatishodai/api.khatishodai.com/ in /home2/khatishodai/api.khatishodai.com/vendor/composer/ClassLoader.php on line 444
+[05-Mar-2021 10:08:00 UTC] PHP Fatal error:  Uncaught ErrorException: include(/home2/khatishodai/api.khatishodai.com/vendor/composer/../../app/Exceptions/Handler.php): failed to open stream: No such file or directory in /home2/khatishodai/api.khatishodai.com/vendor/composer/ClassLoader.php:444
+Stack trace:
+#0 /home2/khatishodai/api.khatishodai.com/vendor/composer/ClassLoader.php(444): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'include(/home2/...', '/home2/khatisho...', 444, Array)
+#1 /home2/khatishodai/api.khatishodai.com/vendor/composer/ClassLoader.php(444): include()
+#2 /home2/khatishodai/api.khatishodai.com/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home2/khatisho...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Exceptions\\...')
+#4 [internal function]: spl_autoload_call('App\\Exceptions\\...')
+#5 /home2/khatishodai/api.khatishodai.com/vendor/illuminate/container/Container.php(809): ReflectionClass->__construct('App\\Exceptions\\...')
+#6 /home2/khatishodai/api.khatishodai.com/ in /home2/khatishodai/api.khatishodai.com/vendor/composer/ClassLoader.php on line 444
+[05-Mar-2021 10:08:00 UTC] PHP Fatal error:  Uncaught ErrorException: include(/home2/khatishodai/api.khatishodai.com/vendor/composer/../../app/Exceptions/Handler.php): failed to open stream: No such file or directory in /home2/khatishodai/api.khatishodai.com/vendor/composer/ClassLoader.php:444
+Stack trace:
+#0 /home2/khatishodai/api.khatishodai.com/vendor/composer/ClassLoader.php(444): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'include(/home2/...', '/home2/khatisho...', 444, Array)
+#1 /home2/khatishodai/api.khatishodai.com/vendor/composer/ClassLoader.php(444): include()
+#2 /home2/khatishodai/api.khatishodai.com/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home2/khatisho...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Exceptions\\...')
+#4 [internal function]: spl_autoload_call('App\\Exceptions\\...')
+#5 /home2/khatishodai/api.khatishodai.com/vendor/illuminate/container/Container.php(809): ReflectionClass->__construct('App\\Exceptions\\...')
+#6 /home2/khatishodai/api.khatishodai.com/ in /home2/khatishodai/api.khatishodai.com/vendor/composer/ClassLoader.php on line 444
+[05-Mar-2021 10:08:44 UTC] PHP Fatal error:  Uncaught ErrorException: include(/home2/khatishodai/api.khatishodai.com/vendor/composer/../../app/Exceptions/Handler.php): failed to open stream: No such file or directory in /home2/khatishodai/api.khatishodai.com/vendor/composer/ClassLoader.php:444
+Stack trace:
+#0 /home2/khatishodai/api.khatishodai.com/vendor/composer/ClassLoader.php(444): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'include(/home2/...', '/home2/khatisho...', 444, Array)
+#1 /home2/khatishodai/api.khatishodai.com/vendor/composer/ClassLoader.php(444): include()
+#2 /home2/khatishodai/api.khatishodai.com/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home2/khatisho...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Exceptions\\...')
+#4 [internal function]: spl_autoload_call('App\\Exceptions\\...')
+#5 /home2/khatishodai/api.khatishodai.com/vendor/illuminate/container/Container.php(809): ReflectionClass->__construct('App\\Exceptions\\...')
+#6 /home2/khatishodai/api.khatishodai.com/ in /home2/khatishodai/api.khatishodai.com/vendor/composer/ClassLoader.php on line 444
+[05-Mar-2021 10:08:44 UTC] PHP Fatal error:  Uncaught ErrorException: include(/home2/khatishodai/api.khatishodai.com/vendor/composer/../../app/Exceptions/Handler.php): failed to open stream: No such file or directory in /home2/khatishodai/api.khatishodai.com/vendor/composer/ClassLoader.php:444
+Stack trace:
+#0 /home2/khatishodai/api.khatishodai.com/vendor/composer/ClassLoader.php(444): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'include(/home2/...', '/home2/khatisho...', 444, Array)
+#1 /home2/khatishodai/api.khatishodai.com/vendor/composer/ClassLoader.php(444): include()
+#2 /home2/khatishodai/api.khatishodai.com/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home2/khatisho...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Exceptions\\...')
+#4 [internal function]: spl_autoload_call('App\\Exceptions\\...')
+#5 /home2/khatishodai/api.khatishodai.com/vendor/illuminate/container/Container.php(809): ReflectionClass->__construct('App\\Exceptions\\...')
+#6 /home2/khatishodai/api.khatishodai.com/ in /home2/khatishodai/api.khatishodai.com/vendor/composer/ClassLoader.php on line 444
+[05-Mar-2021 10:08:54 UTC] PHP Fatal error:  Uncaught ErrorException: include(/home2/khatishodai/api.khatishodai.com/vendor/composer/../../app/Exceptions/Handler.php): failed to open stream: No such file or directory in /home2/khatishodai/api.khatishodai.com/vendor/composer/ClassLoader.php:444
+Stack trace:
+#0 /home2/khatishodai/api.khatishodai.com/vendor/composer/ClassLoader.php(444): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'include(/home2/...', '/home2/khatisho...', 444, Array)
+#1 /home2/khatishodai/api.khatishodai.com/vendor/composer/ClassLoader.php(444): include()
+#2 /home2/khatishodai/api.khatishodai.com/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home2/khatisho...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Exceptions\\...')
+#4 [internal function]: spl_autoload_call('App\\Exceptions\\...')
+#5 /home2/khatishodai/api.khatishodai.com/vendor/illuminate/container/Container.php(809): ReflectionClass->__construct('App\\Exceptions\\...')
+#6 /home2/khatishodai/api.khatishodai.com/ in /home2/khatishodai/api.khatishodai.com/vendor/composer/ClassLoader.php on line 444
+[05-Mar-2021 10:08:54 UTC] PHP Fatal error:  Uncaught ErrorException: include(/home2/khatishodai/api.khatishodai.com/vendor/composer/../../app/Exceptions/Handler.php): failed to open stream: No such file or directory in /home2/khatishodai/api.khatishodai.com/vendor/composer/ClassLoader.php:444
+Stack trace:
+#0 /home2/khatishodai/api.khatishodai.com/vendor/composer/ClassLoader.php(444): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'include(/home2/...', '/home2/khatisho...', 444, Array)
+#1 /home2/khatishodai/api.khatishodai.com/vendor/composer/ClassLoader.php(444): include()
+#2 /home2/khatishodai/api.khatishodai.com/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home2/khatisho...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Exceptions\\...')
+#4 [internal function]: spl_autoload_call('App\\Exceptions\\...')
+#5 /home2/khatishodai/api.khatishodai.com/vendor/illuminate/container/Container.php(809): ReflectionClass->__construct('App\\Exceptions\\...')
+#6 /home2/khatishodai/api.khatishodai.com/ in /home2/khatishodai/api.khatishodai.com/vendor/composer/ClassLoader.php on line 444
+[05-Mar-2021 10:11:33 UTC] PHP Fatal error:  Uncaught ErrorException: include(/home2/khatishodai/api.khatishodai.com/vendor/composer/../../app/Exceptions/Handler.php): failed to open stream: No such file or directory in /home2/khatishodai/api.khatishodai.com/vendor/composer/ClassLoader.php:444
+Stack trace:
+#0 /home2/khatishodai/api.khatishodai.com/vendor/composer/ClassLoader.php(444): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'include(/home2/...', '/home2/khatisho...', 444, Array)
+#1 /home2/khatishodai/api.khatishodai.com/vendor/composer/ClassLoader.php(444): include()
+#2 /home2/khatishodai/api.khatishodai.com/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home2/khatisho...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Exceptions\\...')
+#4 [internal function]: spl_autoload_call('App\\Exceptions\\...')
+#5 /home2/khatishodai/api.khatishodai.com/vendor/illuminate/container/Container.php(809): ReflectionClass->__construct('App\\Exceptions\\...')
+#6 /home2/khatishodai/api.khatishodai.com/ in /home2/khatishodai/api.khatishodai.com/vendor/composer/ClassLoader.php on line 444
+[05-Mar-2021 10:11:33 UTC] PHP Fatal error:  Uncaught ErrorException: include(/home2/khatishodai/api.khatishodai.com/vendor/composer/../../app/Exceptions/Handler.php): failed to open stream: No such file or directory in /home2/khatishodai/api.khatishodai.com/vendor/composer/ClassLoader.php:444
+Stack trace:
+#0 /home2/khatishodai/api.khatishodai.com/vendor/composer/ClassLoader.php(444): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'include(/home2/...', '/home2/khatisho...', 444, Array)
+#1 /home2/khatishodai/api.khatishodai.com/vendor/composer/ClassLoader.php(444): include()
+#2 /home2/khatishodai/api.khatishodai.com/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home2/khatisho...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Exceptions\\...')
+#4 [internal function]: spl_autoload_call('App\\Exceptions\\...')
+#5 /home2/khatishodai/api.khatishodai.com/vendor/illuminate/container/Container.php(809): ReflectionClass->__construct('App\\Exceptions\\...')
+#6 /home2/khatishodai/api.khatishodai.com/ in /home2/khatishodai/api.khatishodai.com/vendor/composer/ClassLoader.php on line 444
+[05-Mar-2021 10:11:40 UTC] PHP Fatal error:  Uncaught ErrorException: include(/home2/khatishodai/api.khatishodai.com/vendor/composer/../../app/Exceptions/Handler.php): failed to open stream: No such file or directory in /home2/khatishodai/api.khatishodai.com/vendor/composer/ClassLoader.php:444
+Stack trace:
+#0 /home2/khatishodai/api.khatishodai.com/vendor/composer/ClassLoader.php(444): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'include(/home2/...', '/home2/khatisho...', 444, Array)
+#1 /home2/khatishodai/api.khatishodai.com/vendor/composer/ClassLoader.php(444): include()
+#2 /home2/khatishodai/api.khatishodai.com/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home2/khatisho...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Exceptions\\...')
+#4 [internal function]: spl_autoload_call('App\\Exceptions\\...')
+#5 /home2/khatishodai/api.khatishodai.com/vendor/illuminate/container/Container.php(809): ReflectionClass->__construct('App\\Exceptions\\...')
+#6 /home2/khatishodai/api.khatishodai.com/ in /home2/khatishodai/api.khatishodai.com/vendor/composer/ClassLoader.php on line 444
+[05-Mar-2021 10:11:40 UTC] PHP Fatal error:  Uncaught ErrorException: include(/home2/khatishodai/api.khatishodai.com/vendor/composer/../../app/Exceptions/Handler.php): failed to open stream: No such file or directory in /home2/khatishodai/api.khatishodai.com/vendor/composer/ClassLoader.php:444
+Stack trace:
+#0 /home2/khatishodai/api.khatishodai.com/vendor/composer/ClassLoader.php(444): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'include(/home2/...', '/home2/khatisho...', 444, Array)
+#1 /home2/khatishodai/api.khatishodai.com/vendor/composer/ClassLoader.php(444): include()
+#2 /home2/khatishodai/api.khatishodai.com/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home2/khatisho...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Exceptions\\...')
+#4 [internal function]: spl_autoload_call('App\\Exceptions\\...')
+#5 /home2/khatishodai/api.khatishodai.com/vendor/illuminate/container/Container.php(809): ReflectionClass->__construct('App\\Exceptions\\...')
+#6 /home2/khatishodai/api.khatishodai.com/ in /home2/khatishodai/api.khatishodai.com/vendor/composer/ClassLoader.php on line 444

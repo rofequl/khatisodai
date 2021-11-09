@@ -1,0 +1,131 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap");
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.2/css/all.min.css');
+@import 'node_modules/bootstrap/scss/bootstrap';
+@import 'node_modules/bootstrap-vue/src/index.scss';
+// If you want to override variables do it here
+@import "variables";
+
+// If you want to add something do it here
+@import "custom";
+
+a {
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+label, p {
+  margin-bottom: 0 !important;
+}
+
+/* width */
+::-webkit-scrollbar {
+  width: 8px;
+  border-radius: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #ded1d1;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #b1aaaa;
+  border-radius: 10px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #9b9494;
+}
+
+.pointer {
+  cursor: pointer;
+}
+
+.categorie-menu-wrapper {
+  ul {
+    li {
+      a {
+        font-weight: lighter;
+        text-decoration: none;
+        padding: 7px 15px;
+        font-size: 14px;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+      }
+    }
+  }
+}
+
+.sidebar-filter-wrapper {
+  .cat-list {
+    font-size: 12px;
+
+    a:hover {
+      text-decoration: none;
+      color: black !important;
+      font-weight: bold;
+    }
+
+    .cat-list-text {
+      color: black !important;
+      font-weight: bold;
+    }
+  }
+}
+
+.item-container {
+  .product-item {
+    .img-box {
+      img {
+        height: 175px;
+      }
+    }
+  }
+}
+
+.banner-image img {
+  border-radius: 15px;
+}
+
+.btn {
+  box-shadow: none !important;
+}
+
+.category-menu-section, .product-detail-section {
+  margin-top: 131px;
+}
+
+.hooper .hooper-next, .hooper .hooper-prev {
+  padding: 0 !important;
+}
+
+.hooper .hooper-next:focus, .hooper .hooper-prev:focus {
+  outline: unset;
+}
+
+@media screen and (max-width: 374px) {
+  .item-container {
+    grid-template-columns: repeat(1, 1fr);
+  }
+}
+
+@media only screen and (min-width: 375px) and (max-width: 575px) {
+  .item-container {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+  .item-container {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+@media (min-width: 1500px) {
+  .container-xl, .container-lg, .container-md, .container-sm, .container {
+    max-width: 1400px;
+  }
+}
